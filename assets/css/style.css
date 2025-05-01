@@ -352,6 +352,10 @@ a:hover {
   -webkit-box-orient: vertical;
 }
 
+.hero{
+  margin-top: 60px !important;
+}
+
 .hero-bg {
   background-size: cover;
   background-position: center;
