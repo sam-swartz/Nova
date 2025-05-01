@@ -277,6 +277,10 @@ a:hover {
   color: var(--color-text) !important;
 }
 
+.form-control::placeholder {
+  color: var(--color-text-muted) !important;
+}
+
 /* List Group */
 .list-group-item {
   background-color: var(--color-surface) !important;
